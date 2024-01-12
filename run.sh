@@ -1,3 +1,5 @@
+### To run Easymocap
+
 # Optional 
 # Save your own video in the videos directory 
 # data/own_data
@@ -45,7 +47,7 @@ data=data/own_data
 # cd ..
 # cd ..
 
-#Extract KeyPoints --ext means your image type
+#Extract KeyPoints --ext means your image type set up the openpose environment if you want to run the code involving openpose
 
 # python3 apps/preprocess/extract_keypoints.py ${data} --mode yolo-hrnet
 # python3 apps/preprocess/extract_keypoints.py ${data} --mode openpose --openpose ./openpose --hand --face
