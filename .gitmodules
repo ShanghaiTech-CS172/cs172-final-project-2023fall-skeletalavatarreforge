@@ -1,0 +1,12 @@
+[submodule "GauHuman"]
+	path = GauHuman
+	url = https://github.com/skhu101/GauHuman.git
+[submodule "MDM/HumanML3D"]
+	path = MDM/HumanML3D
+	url = https://github.com/EricGuo5513/HumanML3D.git
+[submodule "MDM/motion-diffusion-model"]
+	path = MDM/motion-diffusion-model
+	url = https://github.com/GuyTevet/motion-diffusion-model.git
+[submodule "EasyMocap"]
+	path = EasyMocap
+	url = https://github.com/zju3dv/EasyMocap.git
